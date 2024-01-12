@@ -1,0 +1,125 @@
+{
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "explorer.confirmDelete": false,
+  "code-runner.runInTerminal": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.mouseWheelZoom": true,
+  "liveServer.settings.CustomBrowser": "chrome",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "gopls": {
+    "experimentalWorkspaceModule": true
+  },
+  "C_Cpp.updateChannel": "Insiders",
+  "[cpp]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter-notebook",
+    "*.jfif": "default"
+  },
+  "vsicons.dontShowNewVersionMessage": true,
+  "editor.fontLigatures": true,
+  "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.quickSuggestions": {
+      "strings": true,
+      "other": true
+    },
+    "editor.suggest.insertMode": "replace",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.associations": {
+    "*.jsx": "javascriptreact"
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.startupEditor": "none",
+  "workbench.iconTheme": "vscode-icons",
+  "notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "left"
+  },
+  "liveServer.settings.donotVerifyTags": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.prettier": "explicit"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "editor.fontFamily": "Menlo,Fira Code,Fira Code Retina Medium,Menlo,Source Code Pro,Cascadia Code,Consolas,JetBrains Mono light,JetBrains Mono,\"IBM Plex Mono Medium\",Consolas, 'Courier New', monospace",
+  "thunder-client.codeSnippetLanguage": "cs-httpclient",
+  "go.toolsManagement.autoUpdate": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "redhat.telemetry.enabled": true,
+  "editor.cursorBlinking": "phase",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.fontSize": 15,
+  "terminal.integrated.fontSize": 18,
+  "bracketPairColorizer.depreciation-notice": false,
+  "editor.maxTokenizationLineLength": 2000000,
+
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/env": true,
+    "**/venv": true
+  },
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/**": true,
+    "**/env/**": true,
+    "**/venv/**": true,
+    "env-*": true
+  },
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "leetcode.workspaceFolder": "",
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "files.autoSave": "afterDelay",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "editor.minimap.scale": 2,
+  "editor.minimap.autohide": true,
+  "editor.minimap.renderCharacters": false,
+  "todohighlight.keywords": [
+    {
+      "text": "REVIEW",
+      "backgroundColor": "#22CB5C",
+      "color": "#ffffff"
+    }
+  ],
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "workbench.colorTheme": "Default Dark+",
+  "autoimport.showNotifications": true
+}
